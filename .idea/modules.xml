@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/code_design_pattern.iml" filepath="$PROJECT_DIR$/code_design_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model_mapping/model_mapping.iml" filepath="$PROJECT_DIR$/model_mapping/model_mapping.iml" />
     </modules>
   </component>
 </project>
